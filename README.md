@@ -2,7 +2,7 @@
 
 [![python version](https://img.shields.io/badge/python-3.6.7-66c2a5.svg)](https://python.org)
 [![beautifulsoup4 version](https://img.shields.io/badge/beautifulsoup4-4.6.3-fc8d62.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-[![requests version](https://img.shields.io/badge/requests-2.19.1-8da0cb.svg)](http://www.python-requests.org/en/master/)
+[![requests version](https://img.shields.io/badge/requests-2.20.0-8da0cb.svg)](http://www.python-requests.org/en/master/)
 [![MIT license](https://img.shields.io/badge/license-MIT-e78ac3.svg)](https://mit-license.org)
 
 Scrape the IMDb 50 highest rated movies and crawl the IMDb top 250 movies using python with 2 libraries, beautifulsoup4 and requests.
