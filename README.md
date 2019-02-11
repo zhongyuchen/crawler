@@ -67,7 +67,8 @@ python crawler.py
 
 ## Links
 
-* [IMDb](https://www.imdb.com)
+* Official website [IMDb](https://www.imdb.com)
+* Official datasets can be downloaded on [IMDb Datasets](https://www.imdb.com/interfaces/)
 
 ## Author
 
