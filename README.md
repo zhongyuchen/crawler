@@ -30,11 +30,11 @@ repository-template
 
 ## Scraper
 
-Scrape data off the IMDb 50 highest rated movies between 2008 and 2018 using python with 2 libraries, beautifulsoup4 and requests.
+Scrape data off the IMDb 50 highest rated movies between 2008 and 2018 using 2 python libraries, beautifulsoup4 and requests.
 
 ### Features
 
-* Make a copy of the target website in _movies.html_
+* Make a copy of [the target website](https://www.imdb.com/search/title?title_type=feature&release_date=2008-01-01,2018-01-01&num_votes=5000,&sort=user_rating,desc) in _movies.html_
 * Scrape the data off into a csv file _movies.csv_
 
 ### Usage
@@ -48,13 +48,14 @@ python scraper.py
 
 Scrape the IMDb top 250 movie index page for urls that lead to each movie pages.
 Then crawl into each IMDb movie pages and scrape movie info.
+These are also implemented using 2 python libraries, beautifulsoup4 and requests.
 
 ### Features
 
-* Make a copy of the top 250 IMDb movies index page in _index.html_
+* Make a copy of [the top 250 IMDb movies index page](http://www.imdb.com/chart/top) in _index.html_
 * Scrape the target urls
 * Crawl into each url and scrape movie info
-* Make a copy of 083 movie page in _movie-083.html_ as an example among 250 movies
+* Make a copy of [083 movie page](https://www.imdb.com/title/tt0986264/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HC49RWRJQZT3JA01DJWC&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_84) in _movie-083.html_ as an example among 250 movies
 * Save the top 250 IMDb movies info in a csv file _top250movies.csv_
 
 ### Usage
