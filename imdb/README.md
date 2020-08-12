@@ -1,4 +1,4 @@
-# imdb-crawler
+# imdb
 
 [![python version](https://img.shields.io/badge/python-3.6.7-66c2a5.svg)](https://python.org)
 [![beautifulsoup4 version](https://img.shields.io/badge/beautifulsoup4-4.6.3-fc8d62.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)

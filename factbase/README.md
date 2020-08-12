@@ -1,11 +1,7 @@
-# all-about-that-trump
+# factbase
 
-Transcripts of all Donald Trump's speeches and interviews before 2020
+Crawl and scrape transcripts of all Donald Trump's speeches and interviews until 2020
 
-## Author
+## Link
 
-Zhongyu Chen
-
-## Source
-
-The transcripts in this repository are crawled from [Factbase](https://factba.se/transcripts).
+* [Factbase](https://factba.se/transcripts)
